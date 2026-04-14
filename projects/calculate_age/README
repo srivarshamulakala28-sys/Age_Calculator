@@ -1,0 +1,14 @@
+# Calculate Age
+
+This project takes the user's date of birth and calculates their current age.
+
+## How to run
+python main.py
+
+## How to run tests
+python -m pytest test_main.py
+
+## What I learned
+- How to use the datetime module in python
+- How to compare dates
+- How to handle the case where birthday hasnt come yet this year

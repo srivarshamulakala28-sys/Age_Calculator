@@ -1,0 +1,16 @@
+# Number Guessing Game
+
+The computer picks a random number between 1 and 100 and the user has to guess it.
+The program tells you if your guess is too high or too low.
+
+## How to run
+python main.py
+
+## How to run tests
+python -m pytest test_main.py
+
+## What I learned
+- How to use the random module
+- How to use while loops
+- How to give hints to the user based on their guess
+- How to count number of attempts
