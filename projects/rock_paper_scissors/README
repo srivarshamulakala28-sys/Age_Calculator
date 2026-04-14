@@ -1,0 +1,16 @@
+# Rock Paper Scissors
+
+A simple game where you play rock paper scissors against the computer.
+The computer picks randomly and the program tells you who won.
+
+## How to run
+python main.py
+
+## How to run tests
+python -m pytest test_main.py
+
+## What I learned
+- How to use random.choice
+- How to use while loop to keep game running
+- How to check multiple conditions using or
+- How to handle invalid user input
